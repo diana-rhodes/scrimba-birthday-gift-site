@@ -1,3 +1,5 @@
+This project was made to demonstrate some basic interactivity on a website.
+
 # co7eb442eb80da97fd424c3e0
 
 ## About Scrimba
