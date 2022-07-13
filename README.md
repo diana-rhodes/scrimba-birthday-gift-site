@@ -1,4 +1,4 @@
-This project was made to demonstrate some basic interactivity on a website.
+This project was made to demonstrate my grasp of some basic CSS concepts; namely, align-objects, linear gradient background colors, and the :hover pseudoclass.
 
 # co7eb442eb80da97fd424c3e0
 
